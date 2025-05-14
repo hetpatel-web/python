@@ -34,6 +34,10 @@ print(myint != 10) # not equal to
 print(myint > 5) # greater than
 print(myint < 5) # less than
 
+# and, or, not operators
+print(myint > 5 and myint < 15) # and
+print(myint > 5 or myint < 5) # or
+ print(not myint > 5) # not
 
 # re-declaring a variable works
 myint = 20
