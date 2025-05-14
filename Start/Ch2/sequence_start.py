@@ -43,4 +43,3 @@ print(1 in myset)  # test for membership
 # Set, however, can not be indexed like lists or tuples
 # print(myset[0]) # this will cause an error
 
-# Test for membership
