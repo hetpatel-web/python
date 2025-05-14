@@ -13,4 +13,5 @@ else:
   print("x is greater than y")
 
 # conditional statements let you use "a if C else b"
-print("x is less than y") if x < y else print("x is greater than y")
+result = "x is less than y" if x < y else "x is greater than y"
+print(result)
